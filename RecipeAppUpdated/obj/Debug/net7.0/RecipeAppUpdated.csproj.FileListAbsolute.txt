@@ -1,0 +1,15 @@
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\obj\Debug\net7.0\RecipeAppUpdated.csproj.AssemblyReference.cache
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\obj\Debug\net7.0\RecipeAppUpdated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\obj\Debug\net7.0\RecipeAppUpdated.AssemblyInfoInputs.cache
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\obj\Debug\net7.0\RecipeAppUpdated.AssemblyInfo.cs
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\obj\Debug\net7.0\RecipeAppUpdated.csproj.CoreCompileInputs.cache
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\bin\Debug\net7.0\RecipeAppUpdated.exe
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\bin\Debug\net7.0\RecipeAppUpdated.deps.json
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\bin\Debug\net7.0\RecipeAppUpdated.runtimeconfig.json
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\bin\Debug\net7.0\RecipeAppUpdated.dll
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\bin\Debug\net7.0\RecipeAppUpdated.pdb
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\obj\Debug\net7.0\RecipeAppUpdated.dll
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\obj\Debug\net7.0\refint\RecipeAppUpdated.dll
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\obj\Debug\net7.0\RecipeAppUpdated.pdb
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\obj\Debug\net7.0\RecipeAppUpdated.genruntimeconfig.cache
+C:\Users\Tiisetso lebeola\source\repos\RecipeAppUpdated\obj\Debug\net7.0\ref\RecipeAppUpdated.dll
